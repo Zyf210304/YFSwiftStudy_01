@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 /*
 timer = nil 报错  
 暂时没找到合适的方法释放timer 或者invalidate() 就能释放
+加油
 */
 
     var playBtn : UIButton!
